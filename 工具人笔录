@@ -1,0 +1,123 @@
+基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。	https://github.com/projectdiscovery/nuclei	nuclei
+afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具	https://github.com/zan8in/afrog	afrog
+一款功能强大的安全评估工具	https://github.com/chaitin/xray	Xray
+网络安全测试工具	https://github.com/gobysec/Goby	Goby
+开源的远程漏洞测试框架	https://github.com/knownsec/pocsuite3	pocsuite3
+高危漏洞精准检测与深度利用框架	https://github.com/woodpecker-framework/woodpecker-framwork-release	woodpecker-framwork
+Web漏洞攻击框架	https://github.com/Anonymous-ghost/AttackWebFrameworkTools	AttackWebFrameworkTools
+全新的开源在线 poc 测试框架	https://github.com/jweny/pocassist	pocassist
+是一款 web 漏洞扫描和验证工具	https://github.com/zhzyker/vulmap	Vulmap
+
+
+中间件漏洞利用工具
+综合高危漏洞利用工具	https://github.com/Liqunkit/LiqunKit_	LiqunKit
+Spring系列漏洞利用工具	https://github.com/SummerSec/SpringExploit	SpringExploit
+shiro 反序列 命令执行辅助检测工具	https://github.com/wyzxxz/shiro_rce_tool	shiro_rce_tool
+shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题	https://github.com/SummerSec/ShiroAttack2	ShiroAttack2
+shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）	https://github.com/j1anFen/shiro_attack	shiro_attack
+FastjonExploit | Fastjson漏洞快速利用框架	https://github.com/c0ny1/FastjsonExploit	FastjsonExploit
+fastjson_rce_tool fastjson命令执行自动化利用工具	https://github.com/wyzxxz/fastjson_rce_tool	fastjson_rce_tool
+fastjson一键命令执行	https://github.com/mrknow001/fastjson_rec_exploit	fastjson_rec_exploit
+Jboss（和 Java 反序列化漏洞）验证和利用工具	https://github.com/joaomatosf/jexboss	exBoss
+Weblogic一键漏洞检测工具，V1.5，更新时间：20200730	https://github.com/rabbitmask/WeblogicScan	WeblogicScan
+weblogic 漏洞扫描工具。包含2020	https://github.com/0xn0ne/weblogicScanner	weblogicScanner
+weblogic利用工具weblogic-framework	https://github.com/0nise/weblogic-framework	weblogic-framework
+woodpecker框架weblogic信息探测插件	https://github.com/woodpecker-appstore/weblogic-infodetector	weblogic-infodetector
+Dubbo反序列化一键快速攻击测试工具	https://github.com/threedr3am/dubbo-exp	dubbo-exp
+jenkins-attack-framework 针对 Jenkins 的攻击框架	https://github.com/Accenture	jenkins-attack-framework
+Jiraffe 是为利用 Jira 实例而编写的半自动安全工具。	https://github.com/0x48piraj/Jiraffe	Jiraffe
+STS2G Struts2漏洞扫描利用工具 - Golang版	https://github.com/xwuyi/STS2G	STS2G
+Struts2-Scan Struts2全漏洞扫描利用工具	https://github.com/HatBoy/Struts2-Scan	Struts2-Scan
+log4j漏洞利用工具	https://github.com/kozmer/log4j-shell-poc	log4j-shell-poc
+Confluence-OGNL一键注入内存shell	https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL	Confluence
+
+
+重点cms利用工具
+综合高危漏洞利用工具	https://github.com/Liqunkit/LiqunKit_	LiqunKit
+致远OA综合利用工具	https://github.com/Summer177/seeyon_exp	seeyon_exp
+致远OA综合利用工具GUI-V1.0	https://github.com/God-Ok/SeeyonExploit-GUI	SeeyonExploit-GUI
+通达OA综合利用工具	https://github.com/xinyu2428/TDOA_RCE	TDOA_RCE
+蓝凌OA漏洞利用工具/前台无条件RCE/文件写入	https://github.com/yuanhaiGreg/LandrayExploit	LandrayExploit
+泛微OA漏洞综合利用脚本	https://github.com/z1un/weaver_exp	weaver_exp
+锐捷网络EG易网关RCE批量安全检测	https://github.com/Tas9er/EgGateWayGetShell	EgGateWayGetShell
+CMSmap 针对流行CMS进行安全扫描的工具	https://github.com/Dionach/CMSmap	CMSmap
+使用Go开发的WordPress漏洞扫描工具	https://github.com/blackbinn/wprecon	wprecon
+一个 Ruby 框架，旨在帮助对 WordPress 系统进行渗透测试	https://github.com/rastating/wordpress-exploit-framework	wordpress-exploit-framework
+WPScan WordPress 安全扫描器	https://github.com/wpscanteam/wpscan	wpscan
+WPForce Wordpress 攻击套件	https://github.com/n00py/WPForce	WPForce
+漏洞POC基本适用ThinkPHP全版本漏洞	https://github.com/zangcc/Aazhen-v3.1	Aazhen-v3.1
+Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。	https://github.com/Lotus6/ThinkphpGUI	ThinkphpGUI
+ThinkPHP 漏洞 综合利用工具, 图形化界面, 命令执行, 一键getshell, 批量检测, 日志遍历, session包含, 宝塔绕过	https://github.com/bewhale/thinkphp_gui_tools	thinkphp_gui_tools
+
+
+信息泄露利用工具
+六大云存储，泄露利用检测工具	https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools	Cloud-Bucket-Leak-Detection-Tools
+AK资源管理工具，阿里云/腾讯云 AccessKey AccessKeySecret	https://github.com/wyzxxz/aksk_tool	aksk_tool
+swagger-exp Swagger REST API 信息泄露利用工具	https://github.com/lijiejie/swagger-exp	swagger-exp
+swagger-hack 自动化爬取并测试所有swagger-ui.html接口	https://github.com/jayus0821/swagger-hack	swagger-hack
+heapdump敏感信息查询工具	https://github.com/wyzxxz/heapdump_tool	heapdump_tool
+Packer Fuzzer 针对Webpack等前端打包工具所构造的网站进行检测的扫描工具	https://github.com/rtcatc/Packer-Fuzzer	Packer-Fuzzer
+.git源代码泄露利用工具	https://github.com/BugScanTeam/GitHack	GitHack
+.cvs源代码泄露利用工具	https://github.com/kost/dvcs-ripper.git	dvcs-ripper
+.DS_store文件泄露利用工具	https://github.com/lijiejie/ds_store_exp	ds_store_exp
+SvnExploit支持SVN源代码泄露全版本Dump源码	https://github.com/admintony/svnExploit	svnExploit
+git-dumper 从网站转储git存储库的工具	https://github.com/arthaud/git-dumper	git-dumper
+GitDorker 通过使用大型的dorks库来从GitHub抓取敏感信息	https://github.com/obheda12/GitDorker	GitDorker
+从JavaScript文件中提取敏感信息	https://github.com/m4ll0k/SecretFinder	SecretFinder
+功能比较多的一个JavaScript侦查自动化脚本	https://github.com/KathanP19/JSFScan.sh	JSFScan
+子域名接管漏洞检测工具，支持30+云服务托管检测	https://github.com/Ice3man543/SubOver	SubOver
+
+
+数据库利用工具
+MDUT 2.0 数据库利用工具	https://github.com/SafeGroceryStore/MDUT	MDUT
+综合高危漏洞利用工具(包含各大数据库)	https://github.com/Liqunkit/LiqunKit_	LiqunKit
+sqlserver利用工具	https://github.com/uknowsec/SharpSQLTools	SharpSQLTools
+通过套接字重用通过受损的 Microsoft SQL Server 在受限环境中执行横向移动	https://github.com/blackarrowsec/mssqlproxy	mssqlproxy
+ODAT：Oracle 数据库攻击工具	https://github.com/quentinhardy/odat	ODAT
+Redis未授权访问漏洞利用工具	https://github.com/n0b0dyCN/redis-rogue-server	redis-rogue-server
+Redis未授权访问漏洞利用工具2	https://github.com/Ridter/redis-rce	redis-rce
+Redis 漏洞利用工具	https://github.com/yuyan-sec/RedisEXP	RedisEXP
+redis主从复制rce的go版本	https://github.com/zyylhn/redis_rce	redis_rce
+
+
+爆破利用工具
+集合了fscan和kscan等优秀工具功能的扫描爆破工具。	https://github.com/i11us0ry/goon	goon
+超级弱口令检查工具是一款Windows平台的弱口令审计工具	https://github.com/shack2/SNETCracker	超级弱口令
+Web-Brutator 中间件接口爆破	https://github.com/koutto/web-brutator	Web-Brutator
+WebCrack是一款web后台弱口令/万能密码批量检测工具	https://github.com/yzddmr6/WebCrack	WebCrack
+ssb 一种更快更简单的爆破SSH服务器的工具	https://github.com/kitabisa/ssb	ssh爆破
+rsync弱密码扫描(爆破)	https://github.com/hi-unc1e/some_scripts/blob/master/EXPs/rsync_weakpass.py	rsync
+
+
+全网字典收集
+渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目	https://github.com/insightglacier/Dictionary-Of-Pentesting	Dictionary-Of-Pentesting
+Fuzz 字典,一个就够了	https://github.com/TheKingOfDuck/fuzzDicts	Web Pentesting
+Web 模糊测试字典与一些Payloads	https://github.com/gh0stkey/Web-Fuzzing-Box	Web Fuzzing Box
+上传漏洞fuzz字典生成脚本	https://github.com/c0ny1/upload-fuzz-dic-builder	upload-fuzz-dic-builder
+安全评估期间使用的多种类型列表的集合	https://github.com/danielmiessler/SecLists	SecLists
+渗透测试仪和Bug赏金猎人的 Payload 库	https://github.com/sh377c0d3/Payloads	Payloads
+基于实战沉淀下的各种弱口令字典	https://github.com/fuzz-security/SuperWordlist	SuperWordlist
+各类漏洞的 TOP25 参数字典	https://github.com/lutfumertceylan/top25-parameter	top25-parameter
+提取收集以往泄露的密码中符合条件的强弱密码	https://github.com/r35tart/RW_Password	RW_Password
+图片
+
+常规漏洞利用工具
+DalFox 是一款功能强大的开源 XSS 扫描工具和参数分析器、实用工具	https://github.com/hahwul/dalfox	dalfox
+基于DOM的快速XSS漏洞扫描程序	https://github.com/dwisiswant0/findom-xss	findom-xss
+很常用的XSS平台	https://github.com/beefproject/beef	beef
+jndi注入工具v1.4	https://github.com/WhiteHSBG/JNDIExploit	JNDIExploit
+JNDI服务利用工具 RMI/LDAP，支持部分场景回显、内存shell，高版本JDK场景下利用等	https://github.com/wyzxxz/jndi_tool	jndi_tool
+Fast CRLF injection scanning tool	https://github.com/Nefcore/CRLFsuite	CRLFsuite
+
+代码审计辅助工具
+开源的被动式交互式安全测试(IAST)产品	https://github.com/HXSecurity/DongTai	DongTai
+TABBY 是一个基于Soot的 Java 代码分析工具。	https://github.com/wh1t3p1g/tabby	tabby
+IDEA依赖检查插件	https://github.com/jeremylong/DependencyCheck	DependencyCheck
+Java Web应用安全漏洞自动化发现	https://github.com/find-sec-bugs/find-sec-bugs/wiki/IntelliJ-Tutorial	FindSecBugs
+查找PHP代码漏洞工具	https://github.com/ecriminal/phpvuln	phpvuln
+一款不错的静态源代码分析工具，主要用来挖掘PHP程序的漏洞。	http://rips-scanner.sourceforge.net	RIPS
+源代码静态分析工具，支持Java、PHP、C#、Python、Go等27种编程语言，而且能够集成在IDE、Jenkins、Git等服务。	https://www.sonarqube.org	SonarQube
+免费开源的语义代码分析引擎和查询工具	https://github.com/github/codeql-cli-binaries	CodeQL
+一种适用于 C++、C#、VB、PHP、Java、PL/SQL 和 COBOL 的自动化代码安全审查工具。	https://sourceforge.net/projects/visualcodegrepp/	VCG(VisualCodeGrepper)
+一个专门用于查找Python代码中常见安全问题的工具。	https://github.com/PyCQA/bandit	bandit
+一个静态代码脆弱性检测系统，支持java源码的审计	https://github.com/zsdlove/Hades	Hades
